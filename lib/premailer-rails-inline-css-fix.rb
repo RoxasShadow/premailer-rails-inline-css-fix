@@ -8,6 +8,6 @@
 #  0. You just DO WHAT THE FUCK YOU WANT TO.
 #++
 
-require 'premailer-rails-inline-css/premailer'
-require 'premailer-rails-inline-css/railtie'
-require 'premailer-rails-inline-css/version'
+require 'premailer-rails-inline-css-fix/premailer'
+require 'premailer-rails-inline-css-fix/railtie'
+require 'premailer-rails-inline-css-fix/version'

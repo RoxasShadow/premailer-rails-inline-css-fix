@@ -1,7 +1,7 @@
 require_relative 'lib/premailer-rails-inline-css-fix/version.rb'
 
 Gem::Specification.new do |s|
-  s.name        = 'premailer-rails-inline-css'
+  s.name        = 'premailer-rails-inline-css-fix'
   s.version     = PremailerInlineFix::VERSION
   s.author      = 'Giovanni Capuano'
   s.email       = 'webmaster@giovannicapuano.net'
